@@ -1,5 +1,5 @@
 # AIAA-American Institute of Aeronautics and Astronautics
-Project Manager: AIAA
+Project Manager: RC Airplane Flight
 
 University of Illinois - 09/2015 – 05/2016
 
