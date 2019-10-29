@@ -7,8 +7,6 @@ University of Illinois - 09/2015 – 05/2016
 
 •	Taught programming and design concepts based on Arduino hardware / software platform
 
-
-# View Certificate:
 <img src="https://github.com/ejenkins-001/AIAA-Extracurricular/blob/master/images/Arduino.png" height="140">
 <img src="https://github.com/ejenkins-001/AIAA-Extracurricular/blob/master/images/Servo_Diagram.png" height="280">
 <img src="https://github.com/ejenkins-001/AIAA-Extracurricular/blob/master/images/RC Plane.jpg" height="210">
