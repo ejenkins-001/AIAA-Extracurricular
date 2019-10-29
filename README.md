@@ -11,4 +11,4 @@ University of Illinois - 09/2015 – 05/2016
 # View Certificate:
 [AI for Trading Nanodegree Certificate](https://graduation.udacity.com/confirm/C9UGL2Q)
 
-<img src="https://github.com/ejenkins-001/AIAA-Extracurricular/blob/master/servo_control.png" height="140">
+<img src="https://github.com/ejenkins-001/AIAA-Extracurricular/blob/master/RC Plane.png" height="140">
