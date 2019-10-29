@@ -1,7 +1,5 @@
 # AIAA-Extracurricular
-Project Manager: American Institute of Aeronautics and Astronautics
-
-University of Illinois - 09/2015 – 05/2016
+Project Manager: American Institute of Aeronautics and Astronautics - University of Illinois - 09/2015 – 05/2016
 
 •	Led development of sensor-based flight control system for autonomous RC airplane flight
 
