@@ -1,4 +1,4 @@
-# AIAA-Extracurricular
+# AIAA-American Institute of Aeronautics and Astronautics
 University of Illinois - 09/2015 – 05/2016
 
 Project Manager: American Institute of Aeronautics and Astronautics
